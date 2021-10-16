@@ -1,6 +1,8 @@
 package com.github.obarbier.user.cmd.api.dto;
 
-public class RegisterUserResponse  extends  BaseResponse{
+import com.github.obarbier.user.core.dto.BaseResponse;
+
+public class RegisterUserResponse  extends BaseResponse {
     private  String  id;
 
     public RegisterUserResponse(String id, String message) {

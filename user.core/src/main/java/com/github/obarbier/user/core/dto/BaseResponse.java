@@ -1,4 +1,4 @@
-package com.github.obarbier.user.cmd.api.dto;
+package com.github.obarbier.user.core.dto;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;

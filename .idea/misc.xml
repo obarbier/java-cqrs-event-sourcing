@@ -6,6 +6,11 @@
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/user.oauth2.0/pom.xml" />
+        <option value="$PROJECT_DIR$/api.gateway/pom.xml" />
+        <option value="$PROJECT_DIR$/bank-account/bank-account/pom.xml" />
+        <option value="$PROJECT_DIR$/api-gateway/pom.xml" />
+        <option value="$PROJECT_DIR$/api-gateway/api.gateway/pom.xml" />
+        <option value="$PROJECT_DIR$/user-management/pom.xml" />
       </list>
     </option>
   </component>

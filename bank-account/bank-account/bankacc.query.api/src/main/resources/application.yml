@@ -8,9 +8,10 @@ spring:
       port: 27017
       database: bank
   jpa:
-    database-patform: org.hibernate.dialect.MYSQL8Dialect
+    database-platform: org.hibernate.dialect.MySQL8Dialect
+    show-sql: true
     hibernate:
-      dll-auto: update
+      ddl-auto: update
   datasource:
     url: jdbc:mysql://localhost:3306/bank
     username: root
